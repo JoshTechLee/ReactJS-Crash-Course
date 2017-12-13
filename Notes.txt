@@ -1,0 +1,6 @@
+// Each render() can be treated as a state
+// React states are immutable
+//    States don't change
+//    States get updated
+//        New Data pushed to it
+//            Reset/re-render state
